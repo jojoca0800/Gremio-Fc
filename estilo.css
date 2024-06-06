@@ -1,0 +1,155 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color:  #080808;
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+#logo {
+    width: 46px;
+    top: 7px;
+    margin-left: 5%;
+    margin-top: 1px;
+}
+#menu {
+    float: right;
+    margin-right: 2%;
+    list-style: none;
+    margin-top: -48px;
+    color:#ffcc00;
+}
+#topicos3{
+    color: #ffffff;
+    font-size: 28px;
+    
+
+}
+li {
+    float: left;
+    padding: 20 10 20 10;
+}
+li:hover {
+    background-color: #01AAEA;
+}
+
+.content {
+    padding: 20px;
+}
+
+.section1 {
+    margin-bottom: 100px;
+    background: url(fundogremio.jpg);
+    background-repeat: no-repeat;
+    height: 110%;
+    background-size: cover;
+    text-align: center;
+    margin-top: -100px;
+    
+    
+}
+
+
+
+
+.section {
+    margin-bottom: 10px;
+    background-color: #067cd5;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.section img {
+    width: 50%;
+    border-radius: 8px;
+    margin-top: 10px;
+    text-align: left;
+    position: left;
+    width: 50%;
+    margin-left: 120;
+margin-top: 30px;
+}
+
+footer {
+    background-color: #000000;
+    color: #fffef8;
+    text-align: center;
+    padding: 6px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+section h3 {
+    color: #eae7e7;
+    text-align: right;
+    font-size: 28px;
+    float:right;
+    height: 50%;
+    width: 40%;
+    text-align: justify;
+    margin-bottom: -50;
+
+}
+#titulos1{
+    color: #eae7e7;
+    text-align: right;
+    font-size: 28px;
+    float:right;
+    height: 50%;
+    width: 40%;
+    text-align: justify;
+    margin-bottom: -50;
+}
+.section2 {
+    margin-bottom: 10px;
+    background-color: #067cd5;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.section2 h1{
+    color: #060707;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#titulos33{
+    margin-top: 100px;
+}
+#flamengo{
+    float:right;
+    width: 285px;
+
+}
+#palmeiras{
+    float:right;
+    width: 420px;
+    margin-top:50px;
+}
+#cruzeiro{
+    float:right;
+    width: 285px;
+}
+#saopaulo{
+    float:right;
+    width: 225px;
+    margin-top:50px;
+    
+}
+.Clubes{
+    padding-right: 2cm;
+}
