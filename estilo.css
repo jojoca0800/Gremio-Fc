@@ -24,11 +24,12 @@ header {
     list-style: none;
     margin-top: -48px;
     color:#ffcc00;
+
 }
 #topicos3{
     color: #ffffff;
     font-size: 28px;
-    
+    text-decoration: none;
 
 }
 li {
@@ -54,9 +55,6 @@ li:hover {
     
     
 }
-
-
-
 
 .section {
     margin-bottom: 10px;
@@ -100,6 +98,7 @@ section h3 {
     float:right;
     height: 50%;
     width: 40%;
+    margin-top:4cm;
     text-align: justify;
     margin-bottom: -50;
 
